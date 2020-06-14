@@ -1,5 +1,7 @@
 ## Bachelor Degree in Computer Science (Network Security) at Linneuniversitetet
 
+
+[![n-s](https://i1.wp.com/coollogos.top/wp-content/uploads/2019/06/green-security-logo.jpg?resize=300%2C300&ssl=1)]
 ### Program's Courses
  
 
