@@ -24,7 +24,7 @@
 * [1DT301]:heavy_check_mark:  Computer Technology (7.5hp)
 * [1DV512]:heavy_check_mark:  Operating Systems (7.5hp)
 * [1dv525]:heavy_check_mark:  Web Programming (7.5hp)
-* [1DV437]:heavy_check_mark:  Introduction to Game Programming (7.5hp)
+* [1DV437]🔄  Introduction to Game Programming (7.5hp)
 
 
 ### Math (22.5hp)
