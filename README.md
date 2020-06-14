@@ -5,6 +5,7 @@
  
 
 ### Networks, Servers, and IT Security (75hp)
+
 * [1DV700]:heavy_check_mark:  Computer Security (7.5hp)
 * [1DV270]:heavy_check_mark:  Server Administration (7.5hp)
 * [1DV701]:heavy_check_mark:  Computer networks - an introduction (7.5hp)
@@ -17,6 +18,7 @@
 
 
 ### Programming, Databases, Operating Systems, and Software project (75hp)
+
 * [1DV506]:heavy_check_mark:  Problem Solving and Programming (7.5hp)
 * [1DV507]:heavy_check_mark:  Programming and Data Structures (7.5hp)
 * [2DV513]:heavy_check_mark:  Database Theory (7.5hp)
@@ -29,16 +31,20 @@
 
 
 ### Math (22.5hp)
+
 * [1MA441]:heavy_check_mark:  Basic Maths For CS (7.5hp)
 * [1MA462]:heavy_check_mark:  Discrete Mathematics (7.5hp)
 * [1MA464]:heavy_check_mark:  Cryptography and Coding Theory (7.5hp)
 
 ### Other CS Courses (7.5hp)
+
 * [1DV510]:heavy_check_mark:  Technical Information and Communication. (7.5hp)
 
 ### Swedish (30hp)
+
 * [1SV710]:heavy_check_mark:  Basic Swedish I (15hp)
 * [1SV720]:heavy_check_mark:  Basic Swedish II (15hp)
 
 ### English (7.5hp)
+
 * [1EN114]:heavy_check_mark:  English (7.5hp)
