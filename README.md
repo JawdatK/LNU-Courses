@@ -1,5 +1,5 @@
 ## Bachelor Degree in Computer Science (Network Security) at Linneuniversitetet
-![n-ss](https://www.energi.com/wp-content/uploads/2019/10/AdobeStock_245636933-1080x675.jpeg
+![n-ss](https://www.energi.com/wp-content/uploads/2019/10/AdobeStock_245636933-1080x675.jpeg)
 
 ### Program's Courses
  
