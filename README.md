@@ -3,7 +3,7 @@
 ## Program's Courses
  
 
-## Networks, Servers, and IT Security (75hp)
+### Networks, Servers, and IT Security (75hp)
 * [1DV700]:heavy_check_mark:  Computer Security (7.5hp)
 * [1DV270]:heavy_check_mark:  Server Administration (7.5hp)
 * [1DV701]:heavy_check_mark:  Computer networks - an introduction (7.5hp)
@@ -40,4 +40,4 @@
 * [1SV720]:heavy_check_mark:  Basic Swedish II (15hp)
 
 ## English (7.5hp)
-* [1EN114]:check_mark:  English (7.5hp)
+* [1EN114]:heavy_check_mark:  English (7.5hp)
